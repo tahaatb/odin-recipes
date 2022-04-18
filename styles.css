@@ -68,7 +68,7 @@ nav a:hover::before{
 .main-img {
     
     margin: 0;
-    padding: 0;
+    
     border: 5px solid #555;
     border-radius: 50%;
     box-shadow: 10px 10px 5px rgba(61, 61, 61, 0.205);
@@ -79,5 +79,6 @@ nav a:hover::before{
     width: 100%;
     height: 100%;
     text-align: center;
+    padding-top: 125px;
     
 }
